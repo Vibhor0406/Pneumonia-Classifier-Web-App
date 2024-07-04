@@ -2,7 +2,7 @@
 
 **Pneumonia Classifier Web App**
 
-This project is a web-based application designed to classify chest X-ray images as either pneumonia-positive or negative using deep learning models. Leveraging the Flask framework for the web interface, the app integrates TensorFlow and Keras for model training and prediction. OpenCV and NumPy handle image preprocessing, while Matplotlib visualizes the results.
+This project is a web-based application designed to classify chest X-ray images as either pneumonia-positive or negative using deep learning models. Leveraging the Streamlit framework for the web interface, the app integrates TensorFlow and Keras for model training and prediction. OpenCV and NumPy handle image preprocessing, while Matplotlib visualizes the results.
 
 **Real-World Applications:**
 
